@@ -1,6 +1,6 @@
-# Archlinux Ultimate Install Script
+# Manjaro Ultimate Install Script
 
-Install and configure archlinux has never been easier!
+Install and configure Manjaro has never been easier!
 
 You can try it first with a `virtualbox`
 
@@ -12,12 +12,12 @@ You can try it first with a `virtualbox`
 ## How to get it
 ### With git
 - Upgrade your system and install git: `pacman -Syu & pacman -S git`
-- get the script: `git clone git://github.com/helmuthdu/aui`
+- get the script: `git clone git://github.com/prodigeni/aui`
 
 ### Without git
 - Upgrade your system: `pacman -Syu`
-- get the script: ` wget --no-check-certificate https://github.com/helmuthdu/aui/tarball/master -O - | tar xz`
-    - an alternate URL (for less typing) is ` wget --no-check-certificate http://bit.ly/NoUPC6 -O - | tar xz`
+- get the script: ` wget --no-check-certificate https://github.com/prodigeni/mui/tarball/master -O - | tar xz`
+    - an alternate URL (for less typing) is ` wget --no-check-certificate https://bit.ly/RH2RxG -O - | tar xz`
     - super short `wget ow.ly/wnFgh -o aui.zip`
 
 ## How to use
